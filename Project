@@ -1,0 +1,40 @@
+## HOW TO DO THE COLLABORATIVE PROJECT
+
+1. Go to github website and sigh in Create the printf repository (only one partner should create)
+a. Then copy and paste the link for your partner to clone.
+2. git clone the https:
+3. change directory into printf using cd printf.
+4. Do the git config user.emal "zayadsamuel@gmail.com"
+5. Do the git config user.name "Your name"
+6. Go to setting of the repo and click on collaboration.
+7. Add your partner or collaborator.
+8. Ask your partner to accept invitation.
+
+## This task has about 13 to 15 files.. One partner will have 7 files while the other will have 6 files
+
+a. The first partner will create his/her files in the local and then
+b. The following run git add .
+c. git commit -m "Updated"
+d. git push
+
+## Ask the second partner to run git pull to receive your files. When second partner is done pulling ask he or she to create their own files
+run the steps a,b,c.
+
+## At this point the first partner has to do the git pull to receive the remaining
+files locally.
+
+## When both of you now have a total of 13 files, the one who pushed the least number
+of files should do this.
+
+## Create the main.c file
+1. copy the script given below in the task page an then run the gcc code
+This is the gcc code gcc-wall -Wextra -Werror -padentic -stdrgrd9 -woo-farmat *.c
+
+2. if no error detected by the gcc code, it will create a new file called a.out therefore you now have 2 new file main.c & a.out then do steps a,b,c,d to push to github
+
+3. The other partner who previously pushed more files can now do a fresh git pull to receive main.c and a.out files
+
+4. Then go back to your task page and start running your checker. ALL GREENS.
+
+
+## 0x11. C - printf (By: Zayad & Eugene - ALX SE Programmers) pair programming is an invaluable industry skill that you need to practice.
